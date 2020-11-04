@@ -63,4 +63,4 @@ En el repositorio de la práctica de github se adjuntará el código fuente (arc
 https://drive.google.com/file/d/1gpeWnAfiPzVKp91ro8epMJVx3mOMMIWH/view?usp=sharing
 
 ## Conclusion
-En esta sección, deberás añadir las conclusiones, sugerencias y/o problemas de las actividades de laboratorio. 
+En esta práctica se tuvo que pensar en el método adecuado para cada programa. Básicamente al no poder utilizar operaciones como multiplicaciones y divisiones, fue necesario ingeniar una manera para hacer las operaciones con ayuda de los números binarios, para esto fue indispensable el uso de los corrimientos de bits ya sea a la izquierda o derecha dependiendo del programa a realizar. 
